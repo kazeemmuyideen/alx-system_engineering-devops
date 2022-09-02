@@ -1,2 +1,2 @@
 #!/bin/bash
-chnmod -R 354 olleh hello
+chmod -R 354 olleh hello
