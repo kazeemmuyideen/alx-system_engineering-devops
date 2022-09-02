@@ -1,2 +1,2 @@
 #!/bin/bash
-chn=mod -R 354 olleh hello
+chnmod -R 354 olleh hello
