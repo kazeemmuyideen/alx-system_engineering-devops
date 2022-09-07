@@ -1,2 +1,2 @@
 #!/bin/bash
-echp "$((2#$BINARY))"
+echp $((2#$BINARY))
